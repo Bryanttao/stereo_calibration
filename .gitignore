@@ -1,2 +1,9 @@
-
-res.txt
+*.pro
+*.pro.user
+*.pro.user*
+build*
+build-*
+*.o
+*.so
+*.a
+*.so.*
